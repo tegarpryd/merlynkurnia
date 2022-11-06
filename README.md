@@ -1,4 +1,4 @@
-# Scraper Rest Api By: Danzz Coding
+# Scraper Free
 
 ## List Api
 
